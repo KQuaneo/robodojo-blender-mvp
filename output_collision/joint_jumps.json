@@ -1,0 +1,362 @@
+[
+  {
+    "frame": 216,
+    "arm": 1,
+    "max_joint_delta": 0.2609214804851723
+  },
+  {
+    "frame": 217,
+    "arm": 1,
+    "max_joint_delta": 0.3369681197257228
+  },
+  {
+    "frame": 218,
+    "arm": 1,
+    "max_joint_delta": 0.3369681197257226
+  },
+  {
+    "frame": 219,
+    "arm": 1,
+    "max_joint_delta": 0.3369681197257228
+  },
+  {
+    "frame": 221,
+    "arm": 1,
+    "max_joint_delta": 0.3369681197257226
+  },
+  {
+    "frame": 222,
+    "arm": 1,
+    "max_joint_delta": 0.33696811972572327
+  },
+  {
+    "frame": 223,
+    "arm": 1,
+    "max_joint_delta": 0.3369681197257224
+  },
+  {
+    "frame": 224,
+    "arm": 1,
+    "max_joint_delta": 0.3369681197257228
+  },
+  {
+    "frame": 225,
+    "arm": 1,
+    "max_joint_delta": 0.33696811972572305
+  },
+  {
+    "frame": 226,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199249
+  },
+  {
+    "frame": 226,
+    "arm": 1,
+    "max_joint_delta": 0.21475763105047796
+  },
+  {
+    "frame": 227,
+    "arm": 1,
+    "max_joint_delta": 0.3369681197257224
+  },
+  {
+    "frame": 228,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199249
+  },
+  {
+    "frame": 228,
+    "arm": 1,
+    "max_joint_delta": 0.33696811972572327
+  },
+  {
+    "frame": 229,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199248
+  },
+  {
+    "frame": 229,
+    "arm": 1,
+    "max_joint_delta": 0.33696811972572327
+  },
+  {
+    "frame": 230,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199249
+  },
+  {
+    "frame": 230,
+    "arm": 1,
+    "max_joint_delta": 0.3369681197257215
+  },
+  {
+    "frame": 231,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199249
+  },
+  {
+    "frame": 231,
+    "arm": 1,
+    "max_joint_delta": 0.33696811972572327
+  },
+  {
+    "frame": 232,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199249
+  },
+  {
+    "frame": 232,
+    "arm": 1,
+    "max_joint_delta": 0.29059828547328914
+  },
+  {
+    "frame": 233,
+    "arm": 1,
+    "max_joint_delta": 0.3369681197257224
+  },
+  {
+    "frame": 234,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199247
+  },
+  {
+    "frame": 234,
+    "arm": 1,
+    "max_joint_delta": 0.3369681197257224
+  },
+  {
+    "frame": 235,
+    "arm": 0,
+    "max_joint_delta": 0.25693343071992514
+  },
+  {
+    "frame": 235,
+    "arm": 1,
+    "max_joint_delta": 0.33696811972572327
+  },
+  {
+    "frame": 236,
+    "arm": 1,
+    "max_joint_delta": 0.3369681197257224
+  },
+  {
+    "frame": 237,
+    "arm": 1,
+    "max_joint_delta": 0.2979865509437922
+  },
+  {
+    "frame": 238,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199247
+  },
+  {
+    "frame": 238,
+    "arm": 1,
+    "max_joint_delta": 0.33696811972572194
+  },
+  {
+    "frame": 239,
+    "arm": 0,
+    "max_joint_delta": 0.25693343071992514
+  },
+  {
+    "frame": 239,
+    "arm": 1,
+    "max_joint_delta": 0.33696811972572327
+  },
+  {
+    "frame": 240,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199247
+  },
+  {
+    "frame": 240,
+    "arm": 1,
+    "max_joint_delta": 0.3369681197257215
+  },
+  {
+    "frame": 241,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199247
+  },
+  {
+    "frame": 242,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199256
+  },
+  {
+    "frame": 243,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199238
+  },
+  {
+    "frame": 244,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199258
+  },
+  {
+    "frame": 245,
+    "arm": 0,
+    "max_joint_delta": 0.25693343071992447
+  },
+  {
+    "frame": 246,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199247
+  },
+  {
+    "frame": 247,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199247
+  },
+  {
+    "frame": 248,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199256
+  },
+  {
+    "frame": 249,
+    "arm": 0,
+    "max_joint_delta": 0.2569334307199247
+  },
+  {
+    "frame": 250,
+    "arm": 0,
+    "max_joint_delta": 0.25693343071992425
+  },
+  {
+    "frame": 526,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 527,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 528,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 529,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 530,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 532,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 533,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 534,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 535,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 536,
+    "arm": 1,
+    "max_joint_delta": 0.2968407976281564
+  },
+  {
+    "frame": 537,
+    "arm": 1,
+    "max_joint_delta": 0.2968407976281573
+  },
+  {
+    "frame": 539,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 540,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 541,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 542,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 543,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 544,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 546,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 547,
+    "arm": 1,
+    "max_joint_delta": 0.26512132923950693
+  },
+  {
+    "frame": 548,
+    "arm": 1,
+    "max_joint_delta": 0.2968407976281586
+  },
+  {
+    "frame": 549,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815596
+  },
+  {
+    "frame": 550,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 551,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 552,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 553,
+    "arm": 1,
+    "max_joint_delta": 0.2900032242493129
+  },
+  {
+    "frame": 554,
+    "arm": 1,
+    "max_joint_delta": 0.29684079762815685
+  },
+  {
+    "frame": 555,
+    "arm": 1,
+    "max_joint_delta": 0.2968407976281564
+  }
+]

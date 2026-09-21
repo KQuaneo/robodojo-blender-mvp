@@ -1,0 +1,53 @@
+{
+  "task": "sweep_blocks",
+  "frame": 985,
+  "success": true,
+  "official_fixed_layout": "Assets/Eval_Layout/RoboDojo/arx_x5/0/sweep_blocks_0.json",
+  "official_assets": {
+    "robot": "Assets/Robots/x5/X5A.urdf + official STL meshes",
+    "broom": "Rigid/broom/00000/object.usdz",
+    "broom_shovel": "Rigid/broom_shovel/00000/object.usdz",
+    "small_cube_instances": [
+      8,
+      7,
+      7
+    ]
+  },
+  "conditions": {
+    "is_A_on_B_left": true,
+    "is_not_lift": true,
+    "is_axis_up": true,
+    "is_all_A_in_B_support_circle": true,
+    "all_robot_back_to_origin": true
+  },
+  "support_circle_radius": 0.081,
+  "support_circle_center": [
+    -0.098513,
+    -0.104091,
+    0.7743
+  ],
+  "cube_support_distances": {
+    "cube_0": 0.058851,
+    "cube_1": 0.04036,
+    "cube_2": 0.044459
+  },
+  "cube_positions": {
+    "cube_0": [
+      -0.139438,
+      -0.061799,
+      0.7825
+    ],
+    "cube_1": [
+      -0.138863,
+      -0.10315,
+      0.7825
+    ],
+    "cube_2": [
+      -0.104132,
+      -0.148194,
+      0.7825
+    ]
+  },
+  "max_ik_residual_m": 0.001462,
+  "control_boundary": "Joint motion, grasp, and handoff are scripted; cubes are dynamic rigid bodies."
+}

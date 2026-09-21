@@ -1,0 +1,37 @@
+{
+  "task": "sweep_blocks",
+  "backend": "Blender rigid body",
+  "frame": 985,
+  "success": true,
+  "conditions": {
+    "all_cubes_in_dustpan": true,
+    "dustpan_not_lifted": true,
+    "dustpan_axis_up": true,
+    "dustpan_left_of_broom": true,
+    "left_arm_home": true,
+    "right_arm_home": true
+  },
+  "cube_checks": {
+    "cube_0": true,
+    "cube_1": true,
+    "cube_2": true
+  },
+  "cube_positions": {
+    "cube_0": [
+      -0.23338,
+      0.787,
+      0.068
+    ],
+    "cube_1": [
+      0.26365,
+      1.06658,
+      0.068
+    ],
+    "cube_2": [
+      0.28484,
+      0.78924,
+      0.068
+    ]
+  },
+  "note": "ARX X5 geometry and grasps are procedural/kinematic proxies; cubes are dynamic rigid bodies."
+}

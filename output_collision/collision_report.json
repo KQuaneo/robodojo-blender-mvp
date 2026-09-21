@@ -1,0 +1,42 @@
+{
+  "qualified": true,
+  "task_success": true,
+  "first_success_frame": 986,
+  "conditions": {
+    "pan_left_of_broom": true,
+    "pan_not_lifted": true,
+    "pan_upright": true,
+    "all_in_support_circle": true,
+    "robots_home": true
+  },
+  "collision_samples": 3997,
+  "collision_events": 0,
+  "collision_pairs": {},
+  "sampling": "all integer frames and quarter-frame intervals (10ms)",
+  "max_grasp_gap_m": 1.1508098603976677e-07,
+  "pan_support": [
+    {
+      "cube": 0,
+      "pan_below": true,
+      "bottom_gap_m": 1.2099742889404297e-05
+    },
+    {
+      "cube": 1,
+      "pan_below": true,
+      "bottom_gap_m": -2.4437904357910156e-06
+    },
+    {
+      "cube": 2,
+      "pan_below": true,
+      "bottom_gap_m": -0.00011944770812988281
+    }
+  ],
+  "dynamic_cubes_without_animation": true,
+  "urdf_position_limits_passed": true,
+  "predicate_source_sha256": "eb928a05c3eb6bae429a922c59e64272c2c3851c22d779143d45627e47b3a504",
+  "scope": "Full robot self/inter-arm meshes, robot/tool/pan/table/cubes. Only adjacent URDF mating links and fixed base/table mounting contact excluded.",
+  "limitations": [
+    "Kinematic control, not force-based grasping",
+    "Sampled mesh audit, not a formal continuous-collision proof"
+  ]
+}

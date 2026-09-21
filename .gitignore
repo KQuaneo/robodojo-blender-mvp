@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+*.blend[0-9]*
+**/video_frames/
+**/frames/
+*.log
+.env
+.env.*
+!.env.example

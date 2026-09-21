@@ -1,0 +1,44 @@
+[
+  {
+    "start": 320,
+    "end": 350,
+    "max_tilt_deg": 0.044234660174789026,
+    "max_speed_deg_s": 0.0,
+    "total_rotation_deg": 0.0
+  },
+  {
+    "start": 420,
+    "end": 445,
+    "max_tilt_deg": 56.61679585117321,
+    "max_speed_deg_s": 318.0138747798452,
+    "total_rotation_deg": 227.84094386029383
+  },
+  {
+    "start": 525,
+    "end": 555,
+    "max_tilt_deg": 179.13883498673349,
+    "max_speed_deg_s": 576.4766063603856,
+    "total_rotation_deg": 507.7924708032011
+  },
+  {
+    "start": 625,
+    "end": 650,
+    "max_tilt_deg": 4.061582424444865,
+    "max_speed_deg_s": 51.28185996565369,
+    "total_rotation_deg": 31.771560196730146
+  },
+  {
+    "start": 730,
+    "end": 760,
+    "max_tilt_deg": 69.82557570825784,
+    "max_speed_deg_s": 384.13476617601935,
+    "total_rotation_deg": 314.1861995393807
+  },
+  {
+    "start": 830,
+    "end": 890,
+    "max_tilt_deg": 0.2036717727852554,
+    "max_speed_deg_s": 29.074015912600494,
+    "total_rotation_deg": 49.599867127165496
+  }
+]

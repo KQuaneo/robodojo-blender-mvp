@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "first_success_frame": 973,
+  "conditions": {
+    "pan_left_of_broom": true,
+    "pan_not_lifted": true,
+    "pan_upright": true,
+    "all_in_support_circle": true,
+    "robots_home": true
+  },
+  "final_positions": [
+    [
+      -0.14111120998859406,
+      -0.1385534256696701,
+      0.7856124043464661
+    ],
+    [
+      -0.152308851480484,
+      -0.09599534422159195,
+      0.7856353521347046
+    ],
+    [
+      -0.12702767550945282,
+      -0.06679722666740417,
+      0.785824716091156
+    ]
+  ],
+  "max_ik_position_error_m": 0.0048403856963005875,
+  "max_ik_rotation_error_rad": 0.006961075887821209,
+  "checker": "Unmodified original predicate bodies through Blender state adapter; support-circle OR branch only; not Isaac Sim runtime",
+  "predicate_source_sha256": "eb928a05c3eb6bae429a922c59e64272c2c3851c22d779143d45627e47b3a504",
+  "physics": "Official dustpan triangle mesh; brush head box fitted to official geometry; dynamic cubes",
+  "boundaries": [
+    "Kinematic arm/tool control",
+    "No robot collision planning",
+    "No VLA training"
+  ]
+}

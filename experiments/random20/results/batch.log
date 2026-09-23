@@ -1,0 +1,45 @@
+START control pid 18429
+MONITOR control pid 18429 seconds 30 log_bytes 611 stall_checks 0
+MONITOR control pid 18429 seconds 60 log_bytes 719 stall_checks 0
+DONE control success
+START seed_00 pid 18460
+DONE seed_00 missed_pickup
+START seed_01 pid 18474
+DONE seed_01 missed_pickup
+START seed_02 pid 18477
+DONE seed_02 missed_pickup
+START seed_03 pid 18478
+DONE seed_03 missed_pickup
+START seed_04 pid 18479
+DONE seed_04 missed_pickup
+START seed_05 pid 18483
+DONE seed_05 missed_pickup
+START seed_06 pid 18497
+DONE seed_06 missed_pickup
+START seed_07 pid 18498
+DONE seed_07 missed_pickup
+START seed_08 pid 18504
+DONE seed_08 missed_pickup
+START seed_09 pid 18519
+DONE seed_09 missed_pickup
+START seed_10 pid 18521
+DONE seed_10 missed_pickup
+START seed_11 pid 18522
+DONE seed_11 missed_pickup
+START seed_12 pid 18523
+DONE seed_12 missed_pickup
+START seed_13 pid 18526
+DONE seed_13 missed_pickup
+START seed_14 pid 18527
+DONE seed_14 missed_pickup
+START seed_15 pid 18528
+DONE seed_15 missed_pickup
+START seed_16 pid 18529
+DONE seed_16 missed_pickup
+START seed_17 pid 18530
+DONE seed_17 missed_pickup
+START seed_18 pid 18531
+DONE seed_18 missed_pan_hold
+START seed_19 pid 18550
+DONE seed_19 missed_pickup
+SUMMARY {"control_qualified": true, "random_attempted": 20, "random_valid": 20, "random_qualified": 0, "failures": {"missed_pan_hold": 1, "missed_pickup": 19}, "total_process_seconds": 171.75619769096375, "baseline_files_unchanged": true}

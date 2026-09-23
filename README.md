@@ -16,6 +16,22 @@ VLA policy**. See [THIRD_PARTY.md](THIRD_PARTY.md) for upstream attribution.
 
 ![Final state](output_smooth/frame_1000.png)
 
+## Frozen-policy layout perturbation test
+
+Baseline tag: `v0.1-scripted-baseline` (commit `58d0d5c`). A fresh fixed-layout
+control reproduced success at step 986 and exactly matched final cube positions.
+With independent XY translations of ±2 cm for all five objects, **0/20** valid
+random layouts completed the task under the predeclared 2 mm / 1° alignment
+gates: 19 stopped at pickup, one at the pan-hold check. No policy tuning or
+replanning was performed. This identifies early open-loop alignment failures;
+it does not isolate sweep-strategy generalization or measure physical grasping.
+
+See the [experiment report](experiments/random20/REPORT.md),
+[per-seed results](experiments/random20/results/summary.csv), and
+[input manifest](experiments/random20/results/manifest_v2.json).
+The experiment archive includes process logs and preflight diagnostics;
+baseline scenes and their original reports remain unchanged.
+
 ## Reproduce
 
 Tested with Blender 5.2.1 on Apple Silicon. Install Blender and FFmpeg and make

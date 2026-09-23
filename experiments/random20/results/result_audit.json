@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "trial_count": 21,
+  "random_seeds_exactly_0_to_19": true,
+  "sampled_offsets_reproduced": true,
+  "actual_initial_poses_match_offsets": true,
+  "rotations_and_z_unchanged": true,
+  "no_unapproved_grasp_binding": true,
+  "sample_counts_match_executed_prefixes": true,
+  "control_final_positions_exact_match": true,
+  "baseline_hashes_unchanged": true,
+  "processes_completed_without_crash": true,
+  "scope": "Bookkeeping/pose/hash checks; does not prove force-based grasp validity"
+}

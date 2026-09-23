@@ -1,0 +1,12 @@
+{
+  "control_qualified": true,
+  "random_attempted": 20,
+  "random_valid": 20,
+  "random_qualified": 0,
+  "failures": {
+    "missed_pan_hold": 1,
+    "missed_pickup": 19
+  },
+  "total_process_seconds": 171.75619769096375,
+  "baseline_files_unchanged": true
+}

@@ -1,0 +1,91 @@
+{
+  "id": "seed_11",
+  "seed": 11,
+  "status": "completed",
+  "manifest_sha256": "8104f9228fada1cb508c0d6ccd5aa77384b50bf47dac091a93b956ccc594a61c",
+  "offsets_m": {
+    "cube_0": [
+      -0.0019048178596072565,
+      0.00239089544321984,
+      0.0
+    ],
+    "cube_1": [
+      0.016968423360949173,
+      -0.0013739971960090684,
+      0.0
+    ],
+    "cube_2": [
+      0.00031365092249084625,
+      0.003495393153995878,
+      0.0
+    ],
+    "broom_driver": [
+      -0.012613586245804935,
+      0.0004763455616722187,
+      0.0
+    ],
+    "broom_shovel": [
+      0.005195308808672076,
+      0.011719074900798102,
+      0.0
+    ]
+  },
+  "method": "B_local_retarget_v02",
+  "checks": 1819,
+  "no_fallback": true,
+  "pan_to_flange": [
+    [
+      -6.086938030114286e-06,
+      1.0000000735673829,
+      -1.4431457432406702e-06,
+      -2.219345391907268e-07
+    ],
+    [
+      -0.8660261686228983,
+      -5.993018352079549e-06,
+      -0.49999882239694465,
+      0.2305746609962575
+    ],
+    [
+      -0.49999878560242483,
+      -1.793659604260034e-06,
+      0.8660261049142128,
+      0.09050078214196766
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "solver_calls": 1334,
+  "solver_exact_input_cache_hits": 2488,
+  "analytic_continuity": {
+    "passed": true,
+    "segments": 33648,
+    "maximum": {
+      "arm": "Right",
+      "joint": 1,
+      "start_frame": 220.0,
+      "end_frame": 221.0,
+      "rate_rad_per_frame": 0.3377678840221853,
+      "min_quaternion_norm_sq": 0.9929200362872493
+    },
+    "violations": [],
+    "bound_rad_per_frame": 0.48,
+    "method": "analytic normalized-linear quaternion segment derivative"
+  },
+  "outcome": "pan_planning_failure",
+  "duration_s": 68.59634184837341,
+  "failure": {
+    "frame": 227.375,
+    "type": "collision",
+    "pairs": [
+      [
+        "Left_link4",
+        "Left_link6"
+      ]
+    ]
+  }
+}

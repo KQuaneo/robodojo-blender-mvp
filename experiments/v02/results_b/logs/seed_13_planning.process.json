@@ -1,0 +1,22 @@
+{
+  "command": [
+    "blender",
+    "--background",
+    "/Users/quanyukai/robodojo-blender-mvp/experiments/v02/baseline_candidate_02/reference.blend",
+    "--python-exit-code",
+    "1",
+    "--python",
+    "/Users/quanyukai/robodojo-blender-mvp/experiments/v02/plan_b.py",
+    "--",
+    "--manifest",
+    "/Users/quanyukai/robodojo-blender-mvp/experiments/v02/results_b/manifest.json",
+    "--trial",
+    "seed_13",
+    "--output",
+    "/Users/quanyukai/robodojo-blender-mvp/experiments/v02/results_b/seed_13/plan"
+  ],
+  "pid": 28222,
+  "exit_code": 0,
+  "duration_s": 211.30973482131958,
+  "status": "completed"
+}

@@ -1,0 +1,13 @@
+00:00.428  blend            | Read blend: "/Users/quanyukai/robodojo-blender-mvp/output_smooth/sweep_blocks_smooth.blend"
+Traceback (most recent call last):
+  File "/Users/quanyukai/robodojo-blender-mvp/experiments/v02/repair_reference.py", line 48, in <module>
+    continuity=motion.rate_audit(fcs)
+  File "/Users/quanyukai/robodojo-blender-mvp/experiments/v02/motion.py", line 44, in rate_audit
+    assert all(p.interpolation=='LINEAR' for fc in channels for p in fc.keyframe_points), 'Nonlinear quaternion segment'
+           ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Nonlinear quaternion segment
+
+Error: script failed, file: 'experiments/v02/repair_reference.py', exiting.
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

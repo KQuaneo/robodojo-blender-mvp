@@ -1,0 +1,95 @@
+{
+  "approved_by_user": true,
+  "approval": "User ok to frozen XY \u00b12cm / 20 seeds / gated pickup protocol",
+  "baseline_commit": "58d0d5cf9010fc9291e30d9a9522a401362c7a5f",
+  "seed_generator": "Python random.Random(seed), MT19937",
+  "python_version": "3.9.6 (default, May 22 2026, 11:13:45) \n[Clang 21.0.0 (clang-2100.1.1.101)]",
+  "draw_order": [
+    "cube_0",
+    "cube_1",
+    "cube_2",
+    "broom_driver",
+    "broom_shovel"
+  ],
+  "translation_range_m": [
+    -0.02,
+    0.02
+  ],
+  "orientation_randomized": false,
+  "alignment_m": 0.002,
+  "alignment_deg": 1,
+  "per_trial_timeout_s": 600,
+  "step_budget": 1000,
+  "audit_dt_s": 0.01,
+  "trials": [
+    {
+      "id": "control",
+      "seed": null,
+      "offsets_m": {
+        "cube_0": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "cube_1": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "cube_2": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "broom_driver": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "broom_shovel": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  ],
+  "artifacts": {
+    "output_smooth/sweep_blocks_smooth.blend": "d98a5da1d4d442170fa63ac993e75bfba6c65eb1788fa75187b6ffa536bd8c60",
+    "output_smooth/joint_trace.json": "b6431dd03164ad57da15649422cae46feeef9e386d41b788b8e0cf5823469f6e",
+    "output_smooth/grasp_calibration.json": "0b8b8d5f0fd4570dd6961b03365aca7f0f4b650cd6164e4189da2c021bb5d37a",
+    "output_smooth/transfer_plan.json": "fe20a50befe5c9e82965a71ac33e5f4cc7015439ff40534dd11a559c50e85446",
+    "output_smooth/collision_report.json": "c31027bbc87a31118e93e5bfc2144f00fd76d85dd11ffaaa9fde9d4f4b4bb0bf",
+    "output_smooth/trace.json": "1983bbae8fd36f1ec9364163a62eafc04d5caee8be40a13815cfd4d6809c85a3",
+    "collision_geometry.py": "39eff954b0616d2340f152d62c11dd75f23fc071cd5c1bebc1c7d2b9431ad5ec",
+    "official_checks.py": "4a2e642e53854e2109ea111ca7090f0c5002a528cba5dea0957958912bbccfba",
+    "build_official_scene.py": "d6bb1aecacada9cabb971b5d71a737e03ba58f41994fa064b3d4769d78174839",
+    "plan_collision_scene.py": "2da0b22573fd28048c0babce24691d6a0c0272c15a38c36afb742f376898184c",
+    "smooth_transfers.py": "2ca2ab05f1ac5dec4e547eab5c6b005bd0ff4471bbd7eefd42bfc736b6642868",
+    "experiments/v02/baseline_candidate_02/reference.blend": "cd74b64324385c4129bc067e6b4ee556829ba380c66f3cd3cfecbfc712cc0dd6",
+    "experiments/v02/baseline_candidate_02/repair_report.json": "c9112e18ff518b854ce9ce2721b7c16fcf35243cb53c05c28417c926d9f2fb2d",
+    "experiments/v02/baseline_candidate_02/grasp_calibration.json": "0b8b8d5f0fd4570dd6961b03365aca7f0f4b650cd6164e4189da2c021bb5d37a",
+    "experiments/v02/baseline_candidate_02/joint_trace.json": "d471c937feda84c14297e946fd13bd491e1fb9546c7dad56cf742d371414d398",
+    "experiments/v02/baseline_candidate_02/transfer_plan.json": "fe20a50befe5c9e82965a71ac33e5f4cc7015439ff40534dd11a559c50e85446",
+    "experiments/v02/run_trial.py": "fd2cd566a372070a061b2d59752356402ac1f9d9234145d408af61b3cf996e61",
+    "experiments/v02/motion.py": "9de681a8ca0c9ecf471d188aaca53144aa4d634527b7cfb92753c13f66165025",
+    "experiments/v02/monitored.py": "cec242cbe8d356a90eb41ecd8e81a4325f251078b255c156639d223c891b701c",
+    "experiments/v02/prepare.py": "8d654cc2300c1d9d7ec9b0a38f0db1ac1df06e360eb61912e65b9b59f3e5b186",
+    "experiments/v02/PROTOCOL.md": "3ba1d728700ec2bd9b269ef5eebbc28187cc6e031e627a7c6e1b4b7629107c54",
+    "experiments/v02/run_batch.py": "83799f537023b48a9115a4300d9fccd295c534455c674311b79a80c113233a93"
+  },
+  "harness": {
+    "run_trial.py": "def9ca28f73ec9d491621648ae1d030213110aa20adc1ada92db7fa643ce3cf7",
+    "run_batch.py": "5c97f310c04eef50cf962fb6b95603d61abc7ac550f1f01b7b88a938bbdf3e6a",
+    "prepare.py": "b4156597a7fc945a0a25161cbc3372fafe409361d4f973c5f8192f4bb46d566e"
+  },
+  "protocol_sha256": "3536477f35aa536e62d47ffddcb3e2b02ced93589f027d9db6b22b7a417271a1",
+  "experiment": "v02_control",
+  "reference_dir": "experiments/v02/baseline_candidate_02",
+  "source_manifest_sha256": "458ec071c81e85af32730c506f6c1c1c136dfbe54feea63fee1e61f78a774b13",
+  "held_out_reserved_only": [
+    100,
+    119
+  ],
+  "audit": "all rotation keys + quarter frames + interval midpoints; analytic joint rate bounds"
+}

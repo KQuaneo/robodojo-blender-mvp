@@ -1,0 +1,12 @@
+{
+  "status": "stopped_after_control_rejection",
+  "diagnostic_seeds_attempted": 0,
+  "control_planner_process_completed_normally": true,
+  "control_executed": false,
+  "baseline_and_frozen_B_method_unchanged": true,
+  "no_retry": true,
+  "no_held_out_trials": true,
+  "pose_diagnostic_fk_crosscheck_passed": true,
+  "control_diagnostic_outcome": "transition_to_sweep_failure",
+  "raw_classifier_defect_preserved": true
+}

@@ -1,0 +1,90 @@
+{
+  "id": "seed_14",
+  "seed": 14,
+  "status": "completed",
+  "manifest_sha256": "8104f9228fada1cb508c0d6ccd5aa77384b50bf47dac091a93b956ccc594a61c",
+  "offsets_m": {
+    "cube_0": [
+      -0.015726858491933775,
+      0.008103420959474219,
+      0.0
+    ],
+    "cube_1": [
+      0.0060816808125710164,
+      0.017614095582644717,
+      0.0
+    ],
+    "cube_2": [
+      -0.009155390937587073,
+      -0.009768979462678433,
+      0.0
+    ],
+    "broom_driver": [
+      0.009362374565787871,
+      0.006338000729603031,
+      0.0
+    ],
+    "broom_shovel": [
+      -0.007880481044465797,
+      0.007369325123078217,
+      0.0
+    ]
+  },
+  "method": "B_local_retarget_v02",
+  "checks": 8013,
+  "no_fallback": true,
+  "pan_to_flange": [
+    [
+      -6.086938030114286e-06,
+      1.0000000735673829,
+      -1.4431457432406702e-06,
+      -2.219345391907268e-07
+    ],
+    [
+      -0.8660261686228983,
+      -5.993018352079549e-06,
+      -0.49999882239694465,
+      0.2305746609962575
+    ],
+    [
+      -0.49999878560242483,
+      -1.793659604260034e-06,
+      0.8660261049142128,
+      0.09050078214196766
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "solver_calls": 1334,
+  "solver_exact_input_cache_hits": 2488,
+  "analytic_continuity": {
+    "passed": true,
+    "segments": 33648,
+    "maximum": {
+      "arm": "Right",
+      "joint": 1,
+      "start_frame": 220.0,
+      "end_frame": 221.0,
+      "rate_rad_per_frame": 0.3377678840221853,
+      "min_quaternion_norm_sq": 0.9929200362872493
+    },
+    "violations": [],
+    "bound_rad_per_frame": 0.48,
+    "method": "analytic normalized-linear quaternion segment derivative"
+  },
+  "outcome": "planned",
+  "duration_s": 203.7748658657074,
+  "max_ik_position_error_m": 7.860911212056971e-05,
+  "max_joint_rate_rad_per_frame": 0.33836336389215654,
+  "min_acquisition_tool_table_gap_m": -1.257401175869255e-05,
+  "frozen_sweep_pose_error": 0.0,
+  "right_and_driver_reference_actions_unchanged": true,
+  "files": {
+    "joint_trace.json": "ba2a2e0a834a5bf9f770ed8ae12722d5bbeace148fa5a4fddf2aaa1d11837832",
+    "planned.blend": "3613173849394764f26a4d19d875f675c107705bef8564ea15b5dd09fca1fa45"
+  }
+}

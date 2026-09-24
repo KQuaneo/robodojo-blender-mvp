@@ -1,0 +1,24 @@
+{
+  "id": "control",
+  "phase": "planning",
+  "command": [
+    "blender",
+    "--background",
+    "/Users/quanyukai/robodojo-blender-mvp/output_smooth/sweep_blocks_smooth.blend",
+    "--python-exit-code",
+    "1",
+    "--python",
+    "/Users/quanyukai/robodojo-blender-mvp/experiments/paired_ab/plan_b.py",
+    "--",
+    "--manifest",
+    "/Users/quanyukai/robodojo-blender-mvp/experiments/paired_ab/b_results/manifest.json",
+    "--trial",
+    "control",
+    "--output",
+    "/Users/quanyukai/robodojo-blender-mvp/experiments/paired_ab/b_results/control/plan"
+  ],
+  "pid": 20193,
+  "exit_code": 0,
+  "duration_s": 36.37661695480347,
+  "status": "completed"
+}

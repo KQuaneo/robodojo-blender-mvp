@@ -1,0 +1,6 @@
+00:00.471  blend            | Read blend: "/Users/quanyukai/robodojo-blender-mvp/output_smooth/sweep_blocks_smooth.blend"
+Info: Saved as "reference.blend"
+REPAIRED {"removed_keys": 192, "continuity": {"passed": true, "segments": 15648, "maximum": {"arm": "Right", "joint": 1, "start_frame": 220.0, "end_frame": 221.0, "rate_rad_per_frame": 0.3377678840221853, "min_quaternion_norm_sq": 0.9929200362872493}, "violations": [], "bound_rad_per_frame": 0.48, "method": "analytic normalized-linear quaternion segment derivative"}}
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

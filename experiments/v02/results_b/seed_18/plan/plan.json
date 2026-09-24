@@ -1,0 +1,90 @@
+{
+  "id": "seed_18",
+  "seed": 18,
+  "status": "completed",
+  "manifest_sha256": "8104f9228fada1cb508c0d6ccd5aa77384b50bf47dac091a93b956ccc594a61c",
+  "offsets_m": {
+    "cube_0": [
+      -0.012749405466671148,
+      0.006457221939809778,
+      0.0
+    ],
+    "cube_1": [
+      -0.006617611873299997,
+      -0.012082415833499184,
+      0.0
+    ],
+    "cube_2": [
+      -0.0004193864380753788,
+      -0.00023861283571299102,
+      0.0
+    ],
+    "broom_driver": [
+      -0.0008090983940742709,
+      -0.0016667554119675944,
+      0.0
+    ],
+    "broom_shovel": [
+      -0.009418787897790094,
+      -0.009847962588300235,
+      0.0
+    ]
+  },
+  "method": "B_local_retarget_v02",
+  "checks": 8013,
+  "no_fallback": true,
+  "pan_to_flange": [
+    [
+      -6.086938030114286e-06,
+      1.0000000735673829,
+      -1.4431457432406702e-06,
+      -2.219345391907268e-07
+    ],
+    [
+      -0.8660261686228983,
+      -5.993018352079549e-06,
+      -0.49999882239694465,
+      0.2305746609962575
+    ],
+    [
+      -0.49999878560242483,
+      -1.793659604260034e-06,
+      0.8660261049142128,
+      0.09050078214196766
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "solver_calls": 1334,
+  "solver_exact_input_cache_hits": 2488,
+  "analytic_continuity": {
+    "passed": true,
+    "segments": 33648,
+    "maximum": {
+      "arm": "Right",
+      "joint": 1,
+      "start_frame": 220.0,
+      "end_frame": 221.0,
+      "rate_rad_per_frame": 0.3377678840221853,
+      "min_quaternion_norm_sq": 0.9929200362872493
+    },
+    "violations": [],
+    "bound_rad_per_frame": 0.48,
+    "method": "analytic normalized-linear quaternion segment derivative"
+  },
+  "outcome": "planned",
+  "duration_s": 214.9798777103424,
+  "max_ik_position_error_m": 7.961071395928529e-05,
+  "max_joint_rate_rad_per_frame": 0.33836336389215654,
+  "min_acquisition_tool_table_gap_m": -2.0239115117615114e-05,
+  "frozen_sweep_pose_error": 0.0,
+  "right_and_driver_reference_actions_unchanged": true,
+  "files": {
+    "joint_trace.json": "6331bdb2ebcd560eb40707663fa27b2d1482cf86042959070c67e07f017624a0",
+    "planned.blend": "a74ebfd74a7542ec3c383590288d10b4c82a6a53e3ef0a4db49c815dcdb97b77"
+  }
+}

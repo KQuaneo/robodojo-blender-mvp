@@ -1,0 +1,90 @@
+{
+  "id": "seed_05",
+  "seed": 5,
+  "status": "completed",
+  "manifest_sha256": "8104f9228fada1cb508c0d6ccd5aa77384b50bf47dac091a93b956ccc594a61c",
+  "offsets_m": {
+    "cube_0": [
+      0.004916067795588078,
+      0.009671479570429176,
+      0.0
+    ],
+    "cube_1": [
+      0.011807742622627865,
+      0.017698011351082014,
+      0.0
+    ],
+    "cube_2": [
+      0.009595942989597227,
+      0.016892999866616683,
+      0.0
+    ],
+    "broom_driver": [
+      -0.01883979086865541,
+      -0.0013750938248757866,
+      0.0
+    ],
+    "broom_shovel": [
+      0.01773426867993255,
+      0.005958982125476967,
+      0.0
+    ]
+  },
+  "method": "B_local_retarget_v02",
+  "checks": 8013,
+  "no_fallback": true,
+  "pan_to_flange": [
+    [
+      -6.086938030114286e-06,
+      1.0000000735673829,
+      -1.4431457432406702e-06,
+      -2.219345391907268e-07
+    ],
+    [
+      -0.8660261686228983,
+      -5.993018352079549e-06,
+      -0.49999882239694465,
+      0.2305746609962575
+    ],
+    [
+      -0.49999878560242483,
+      -1.793659604260034e-06,
+      0.8660261049142128,
+      0.09050078214196766
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "solver_calls": 1334,
+  "solver_exact_input_cache_hits": 2488,
+  "analytic_continuity": {
+    "passed": true,
+    "segments": 33648,
+    "maximum": {
+      "arm": "Right",
+      "joint": 1,
+      "start_frame": 220.0,
+      "end_frame": 221.0,
+      "rate_rad_per_frame": 0.3377678840221853,
+      "min_quaternion_norm_sq": 0.9929200362872493
+    },
+    "violations": [],
+    "bound_rad_per_frame": 0.48,
+    "method": "analytic normalized-linear quaternion segment derivative"
+  },
+  "outcome": "planned",
+  "duration_s": 196.1212019920349,
+  "max_ik_position_error_m": 7.695395780975187e-05,
+  "max_joint_rate_rad_per_frame": 0.33836336389215654,
+  "min_acquisition_tool_table_gap_m": -1.257401175869255e-05,
+  "frozen_sweep_pose_error": 0.0,
+  "right_and_driver_reference_actions_unchanged": true,
+  "files": {
+    "joint_trace.json": "47d8048290254615fad2c441b3dd69bd858553d81ca48d47586ae299d2d9ff0b",
+    "planned.blend": "23f13492c5cff71c41508adcab0428b9cb41837f52a9e72c9da2d413c73b43ec"
+  }
+}

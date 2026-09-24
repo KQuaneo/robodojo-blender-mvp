@@ -1,0 +1,10 @@
+{
+  "control_qualified": true,
+  "attempted": 20,
+  "qualified": 7,
+  "outcomes": {
+    "success": 7,
+    "task_failure": 13
+  },
+  "baseline_unchanged": true
+}

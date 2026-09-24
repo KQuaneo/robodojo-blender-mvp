@@ -1,0 +1,23 @@
+{
+  "approved_by_user": true,
+  "approval": "User \u597d to retry 10/11 in new attempt directories and continue remaining trials",
+  "utc": "2026-09-23T10:38:19.857751+00:00",
+  "retry_seeds": [
+    10,
+    11
+  ],
+  "first_attempt_seeds": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "timeout_seconds": 600,
+  "manifest_sha256": "d1502bc8e038be5c4c7164c233011b418c5f2103925bdf5f8a269b8ff4c89f5b",
+  "dispatcher_sha256": "379fe9a8db0f3b38ea813d128964598ce710942596fa1412f6305b4c412fad66",
+  "prior_timeouts_preserved": true
+}

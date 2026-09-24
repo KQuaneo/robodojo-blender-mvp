@@ -1,0 +1,15 @@
+{
+  "command": [
+    "blender",
+    "--background",
+    "output_smooth/sweep_blocks_smooth.blend",
+    "--python-exit-code",
+    "1",
+    "--python",
+    "experiments/v02/repair_reference.py"
+  ],
+  "pid": 22369,
+  "exit_code": 1,
+  "duration_s": 1.4301817417144775,
+  "status": "crashed"
+}

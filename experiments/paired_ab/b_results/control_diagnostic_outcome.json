@@ -1,0 +1,17 @@
+{
+  "id": "control",
+  "raw_outcome": "handoff_planning_failure",
+  "diagnostic_outcome": "transition_to_sweep_failure",
+  "raw_evidence_preserved": true,
+  "reason": "Continuity classifier omitted arm information; read-only diagnosis identifies the right-arm handoff-to-sweep connection.",
+  "start_frame": 215.25,
+  "end_frame": 215.375,
+  "arm": "Right",
+  "joint": 2,
+  "rate_rad_per_frame": 0.4827496355618486,
+  "threshold_rad_per_frame": 0.48,
+  "execution_started": false,
+  "diagnostic_seeds_started": 0,
+  "retry_performed": false,
+  "held_out_seeds_accessed": false
+}

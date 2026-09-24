@@ -1,0 +1,16 @@
+00:00.410  blend            | Read blend: "/Users/quanyukai/robodojo-blender-mvp/experiments/v02/baseline_candidate_02/reference.blend"
+PLAN_AUDIT 100.875 800
+PLAN_AUDIT 200.875 1600
+PLAN_AUDIT 298.375 2400
+PLAN_AUDIT 398.375 3200
+PLAN_AUDIT 498.375 4000
+PLAN_AUDIT 598.375 4800
+PLAN_AUDIT 698.375 5600
+PLAN_AUDIT 798.375 6400
+PLAN_AUDIT 898.375 7200
+PLAN_AUDIT 998.375 8000
+Info: Saved as "planned.blend"
+PLAN_RESULT {"id": "seed_04", "seed": 4, "status": "completed", "manifest_sha256": "8104f9228fada1cb508c0d6ccd5aa77384b50bf47dac091a93b956ccc594a61c", "offsets_m": {"cube_0": [-0.01055807641050262, -0.01587335863077137, 0.0], "cube_1": [-0.0041576702955727594, -0.01380110916790359, 0.0], "cube_2": [-0.017339396172816404, -0.0039363594205970055, 0.0], "broom_driver": [0.01671820172350876, 0.012018094059832344, 0.0], "broom_shovel": [0.010606504100217538, -0.011122872972387295, 0.0]}, "method": "B_local_retarget_v02", "checks": 8013, "no_fallback": true, "pan_to_flange": [[-6.086938030114286e-06, 1.0000000735673829, -1.4431457432406702e-06, -2.219345391907268e-07], [-0.8660261686228983, -5.993018352079549e-06, -0.49999882239694465, 0.2305746609962575], [-0.49999878560242483, -1.793659604260034e-06, 0.8660261049142128, 0.09050078214196766], [0.0, 0.0, 0.0, 1.0]], "solver_calls": 1334, "solver_exact_input_cache_hits": 2488, "analytic_continuity": {"passed": true, "segments": 33648, "maximum": {"arm": "Right", "joint": 1, "start_frame": 220.0, "end_frame": 221.0, "rate_rad_per_frame": 0.3377678840221853, "min_quaternion_norm_sq": 0.9929200362872493}, "violations": [], "bound_rad_per_frame": 0.48, "method": "analytic normalized-linear quaternion segment derivative"}, "outcome": "planned", "duration_s": 198.38107013702393, "max_ik_position_error_m": 7.933854132091475e-05, "max_joint_rate_rad_per_frame": 0.33836336389215654, "min_acquisition_tool_table_gap_m": -1.553838071544078e-05, "frozen_sweep_pose_error": 0.0, "right_and_driver_reference_actions_unchanged": true, "files": {"joint_trace.json": "840913804c1e96202795a09fbafda62c347d0a083bf802dee75758f852868417", "planned.blend": "e8acfed79a36e7cf5035ff8453c21f5ec8a540e36f557d46b27375a72b550993"}}
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

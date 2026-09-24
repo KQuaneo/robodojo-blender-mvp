@@ -1,0 +1,1730 @@
+[
+  {
+    "frame": 1,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": true
+    }
+  },
+  {
+    "frame": 2,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7824998497962952
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7824998497962952
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7824998497962952
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": true
+    }
+  },
+  {
+    "frame": 3,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": true
+    }
+  },
+  {
+    "frame": 4,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": true
+    }
+  },
+  {
+    "frame": 5,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": true
+    }
+  },
+  {
+    "frame": 6,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": true
+    }
+  },
+  {
+    "frame": 7,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": true
+    }
+  },
+  {
+    "frame": 8,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 9,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 10,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 11,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 12,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 13,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 14,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 15,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 16,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 17,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 18,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 19,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 20,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 21,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 22,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 23,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 24,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 25,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 26,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 27,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 28,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 29,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 30,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 31,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 32,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 33,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 34,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 35,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 36,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 37,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 38,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 39,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 40,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 41,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 42,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 43,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 44,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 45,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 46,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 47,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 48,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 49,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 50,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 51,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 52,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 53,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 54,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 55,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 56,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 57,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 58,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 59,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 60,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 61,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 62,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 63,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  },
+  {
+    "frame": 64,
+    "positions": [
+      [
+        0.3047255873680115,
+        0.0011664284393191338,
+        0.7825000286102295
+      ],
+      [
+        0.1464075893163681,
+        -0.1318652480840683,
+        0.7825000286102295
+      ],
+      [
+        0.3174033463001251,
+        -0.07270024716854095,
+        0.7825000286102295
+      ]
+    ],
+    "conditions": {
+      "pan_left_of_broom": false,
+      "pan_not_lifted": true,
+      "pan_upright": true,
+      "all_in_support_circle": false,
+      "robots_home": false
+    }
+  }
+]

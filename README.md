@@ -5,14 +5,42 @@ assets, numerical IK, scripted handoff, dynamic cubes, collision checking,
 and bristles-down transfers. This is **not the Isaac Sim runtime or a trained
 VLA policy**. See [THIRD_PARTY.md](THIRD_PARTY.md) for upstream attribution.
 
-## Latest result
+## Corrected v0.2 reference
+
+The [new reference scene](experiments/v02/baseline_candidate_02/reference.blend)
+removes stale sub-frame rotation keys, explicitly uses LINEAR rotation
+interpolation and retimes the handoff-to-sweep connection. A fresh nominal replay
+passes at frame 986 with zero detected collisions on an 8,013-sample key-aware
+grid. Analytical joint-rate validation covers 15,648 interpolation segments.
+See [reference checks and limitations](experiments/v02/REFERENCE_REPORT.md).
+
+Same-reference diagnostics are complete on the 20 seen development seeds:
+
+| Method | Success | Other outcomes |
+|---|---:|---|
+| Frozen Script, all-object perturbations | 0/20 | 18 collision, 2 missed pickup |
+| A, cube-only perturbations | 7/20 | 13 task failure |
+| B, acquisition replanning + world-fixed sweep | 2/20 | 17 task failure, 1 pan planning failure |
+
+All nominal controls passed. B executed 19 accepted plans with no detected
+execution collisions; seed 11 was rejected during pan planning, without fallback.
+A and B have different tool perturbations, so their success rates are not an
+isolated causal comparison. See the [paired report](experiments/v02/REPORT.md)
+and [result audit](experiments/v02/result_audit.json), including the preserved,
+explicitly authorized retries after two A infrastructure timeouts.
+Historical v0.1 evidence remains unchanged; held-out seeds 100–119 remain unopened.
+
+## Historical v0.1 video and result
 
 - [Video (4× speed)](output_smooth/sweep_blocks_smooth.mp4)
 - [Editable Blender scene](output_smooth/sweep_blocks_smooth.blend)
 - [Acceptance report](output_smooth/collision_report.json)
 - Success at step 986/1000; zero detected robot collision events in 3,997
   sampled poses. Sampled checks are not a continuous-time collision proof.
-- Transfers: measured maximum tilt 0.04°, angular speed 91.43°/s.
+- Transfers: the original quarter-frame audit measured maximum tilt 0.04°,
+  angular speed 91.43°/s. **These are sampled-grid values, not continuous bounds.**
+  A later keyframe-aware diagnostic confirmed brief inter-sample pose excursions
+  in the frozen reference; see the [B control diagnostic](experiments/paired_ab/B_REPORT.md).
 
 ![Final state](output_smooth/frame_1000.png)
 
@@ -31,6 +59,21 @@ See the [experiment report](experiments/random20/REPORT.md),
 [input manifest](experiments/random20/results/manifest_v2.json).
 The experiment archive includes process logs and preflight diagnostics;
 baseline scenes and their original reports remain unchanged.
+
+## Paired cube-only A and tool-conditioned B
+
+The [frozen protocol](experiments/paired_ab/PROTOCOL.md) reserves seeds 0–19
+for seen paired diagnostics and 100–119 for unopened held-out testing.
+With only the original cube offsets applied and tools nominal, A produced
+**7/20 successes under the original frozen checks**, 13 task failures, all
+acquisition gates passed, and zero detected collisions on the original grid.
+See [A report](experiments/paired_ab/A_REPORT.md).
+
+B v1's nominal planning control failed a stricter continuity check; **no B
+diagnostic seeds ran**. Read-only diagnosis also confirmed short inter-sample
+excursions in the baseline's frozen sweep. Baseline files and evidence remain
+unchanged, and no threshold was relaxed. See [B report and required decision](experiments/paired_ab/B_REPORT.md).
+No unseen-generalization or B-versus-A improvement claim is supported.
 
 ## Reproduce
 

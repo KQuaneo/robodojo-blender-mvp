@@ -1,0 +1,9 @@
+{
+  "id": "seed_11",
+  "seed": 11,
+  "outcome": "task_failure",
+  "executed": true,
+  "qualified": false,
+  "execution_dir": "attempt_02/execution",
+  "attempt": 2
+}

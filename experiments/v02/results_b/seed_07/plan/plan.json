@@ -1,0 +1,90 @@
+{
+  "id": "seed_07",
+  "seed": 7,
+  "status": "completed",
+  "manifest_sha256": "8104f9228fada1cb508c0d6ccd5aa77384b50bf47dac091a93b956ccc594a61c",
+  "offsets_m": {
+    "cube_0": [
+      -0.007046689406673506,
+      -0.013966033043019924,
+      0.0
+    ],
+    "cube_1": [
+      0.006037378921594151,
+      -0.01710254853329829,
+      0.0
+    ],
+    "cube_2": [
+      0.0014352801722675688,
+      -0.005372443323496578,
+      0.0
+    ],
+    "broom_driver": [
+      -0.01768004300901173,
+      0.00029742932757681126,
+      0.0
+    ],
+    "broom_shovel": [
+      -0.018500173662320606,
+      -0.002654172653504566,
+      0.0
+    ]
+  },
+  "method": "B_local_retarget_v02",
+  "checks": 8013,
+  "no_fallback": true,
+  "pan_to_flange": [
+    [
+      -6.086938030114286e-06,
+      1.0000000735673829,
+      -1.4431457432406702e-06,
+      -2.219345391907268e-07
+    ],
+    [
+      -0.8660261686228983,
+      -5.993018352079549e-06,
+      -0.49999882239694465,
+      0.2305746609962575
+    ],
+    [
+      -0.49999878560242483,
+      -1.793659604260034e-06,
+      0.8660261049142128,
+      0.09050078214196766
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "solver_calls": 1334,
+  "solver_exact_input_cache_hits": 2488,
+  "analytic_continuity": {
+    "passed": true,
+    "segments": 33648,
+    "maximum": {
+      "arm": "Right",
+      "joint": 1,
+      "start_frame": 220.0,
+      "end_frame": 221.0,
+      "rate_rad_per_frame": 0.3377678840221853,
+      "min_quaternion_norm_sq": 0.9929200362872493
+    },
+    "violations": [],
+    "bound_rad_per_frame": 0.48,
+    "method": "analytic normalized-linear quaternion segment derivative"
+  },
+  "outcome": "planned",
+  "duration_s": 199.2356309890747,
+  "max_ik_position_error_m": 7.687557132980761e-05,
+  "max_joint_rate_rad_per_frame": 0.33836336389215654,
+  "min_acquisition_tool_table_gap_m": -1.257401175869255e-05,
+  "frozen_sweep_pose_error": 0.0,
+  "right_and_driver_reference_actions_unchanged": true,
+  "files": {
+    "joint_trace.json": "c5d44c51e30f43e195ce6c77521c85cef63ea8026c2a531d02c4b6073b440a96",
+    "planned.blend": "e16c975556bfbf326cbfc1f4602e501e963a94c10b32c34f2350451cb318e12e"
+  }
+}

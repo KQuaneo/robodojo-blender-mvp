@@ -1,0 +1,23 @@
+{
+  "id": "seed_14",
+  "command": [
+    "blender",
+    "--background",
+    "/Users/quanyukai/robodojo-blender-mvp/output_smooth/sweep_blocks_smooth.blend",
+    "--python-exit-code",
+    "1",
+    "--python",
+    "/Users/quanyukai/robodojo-blender-mvp/experiments/random20/run_trial.py",
+    "--",
+    "--manifest",
+    "/Users/quanyukai/robodojo-blender-mvp/experiments/paired_ab/a_results/manifest.json",
+    "--trial",
+    "seed_14",
+    "--output",
+    "/Users/quanyukai/robodojo-blender-mvp/experiments/paired_ab/a_results/seed_14"
+  ],
+  "pid": 19743,
+  "exit_code": 0,
+  "duration_s": 94.59925198554993,
+  "status": "completed"
+}

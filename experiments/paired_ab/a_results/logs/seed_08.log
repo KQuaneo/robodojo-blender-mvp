@@ -1,0 +1,28 @@
+00:00.354  blend            | Read blend: "/Users/quanyukai/robodojo-blender-mvp/output_smooth/sweep_blocks_smooth.blend"
+GATE {"name": "pickup", "frame": 65, "translation_m": 1.901808221109114e-07, "rotation_deg": 0.01366335675724102, "passed": true}
+PHYSICS 100
+GATE {"name": "handoff", "frame": 190, "translation_m": 5.171941996051527e-06, "rotation_deg": 0.0009030019620218658, "passed": true}
+PHYSICS 200
+GATE {"name": "pan_hold", "frame": 270, "translation_m": 3.550180786973025e-09, "rotation_deg": 0.0, "passed": true}
+PHYSICS 300
+PHYSICS 400
+PHYSICS 500
+PHYSICS 600
+PHYSICS 700
+PHYSICS 800
+PHYSICS 900
+PHYSICS 1000
+AUDIT 100 events 0
+AUDIT 200 events 0
+AUDIT 300 events 0
+AUDIT 400 events 0
+AUDIT 500 events 0
+AUDIT 600 events 0
+AUDIT 700 events 0
+AUDIT 800 events 0
+AUDIT 900 events 0
+AUDIT 1000 events 0
+RESULT {"id": "seed_08", "seed": 8, "status": "completed", "termination_reason": "success", "qualified": true, "initialization_valid": true, "initialization_errors": [], "initial_bounds": {"broom": {"min": [-0.39713534116835025, -0.02967099454652547, 0.7649874358975135], "max": [-0.2226260044749642, 0.18614383566055462, 0.8021772841925228]}, "broom_shovel": {"min": [-0.27552086218035843, -0.19242970299417433, 0.7650257293134928], "max": [0.016451011593994203, 0.010899817662398892, 0.8130257297307253]}, "cube_0": {"min": [0.2705416417559049, -6.148696933050424e-06, 0.7650000285357237], "max": [0.3200054430524447, 0.04945765259960677, 0.8000000286847353]}, "cube_1": {"min": [0.12163210202844166, -0.16262219558565594, 0.7650000285357237], "max": [0.170206394895005, -0.1140479027190926, 0.8000000286847353]}, "cube_2": {"min": [0.2969008641428075, -0.10656638870772506, 0.7650000285357237], "max": [0.34420586059626723, -0.0592613922542653, 0.8000000286847353]}}, "initial_poses": {"broom": [[0.06932687759399414, 0.623758852481842, 0.7785362601280212, -0.3145036995410919], [-0.08583301305770874, -0.7737903594970703, 0.6275996565818787, 0.07598525285720825], [0.993894636631012, -0.11033366620540619, -0.00010545387340243906, 0.7791908979415894], [0.0, 0.0, 0.0, 1.0]], "broom_shovel": [[-0.4136340618133545, -0.9104432463645935, 0.0, -0.14676696062088013], [0.9104432463645935, -0.4136340618133545, 0.0, -0.12601344287395477], [0.0, 0.0, 1.0, 0.7893000245094299], [0.0, 0.0, 0.0, 1.0]], "cube_0": [[0.732703685760498, -0.6805477738380432, 0.0, 0.2952735424041748], [0.6805477738380432, 0.732703685760498, 0.0, 0.02472575195133686], [0.0, 0.0, 1.0, 0.7825000286102295], [0.0, 0.0, 0.0, 1.0]], "cube_1": [[0.8298493027687073, -0.557987630367279, 0.0, 0.14591924846172333], [0.557987630367279, 0.8298493027687073, 0.0, -0.13833504915237427], [0.0, 0.0, 1.0, 0.7825000286102295], [0.0, 0.0, 0.0, 1.0]], "cube_2": [[0.8839052319526672, 0.4676660895347595, 0.0, 0.32055336236953735], [-0.4676660895347595, 0.8839052319526672, 0.0, -0.08291389048099518], [0.0, 0.0, 1.0, 0.7825000286102295], [0.0, 0.0, 0.0, 1.0]]}, "offsets_m": {"cube_0": [-0.010931765624758047, 0.018491801433375313, 0.0], "cube_1": [-0.014946764053965618, 0.008192676914864316, 0.0], "cube_2": [-0.016592589277969895, -0.010102360602836598, 0.0], "broom_driver": [0.0, 0.0, 0.0], "broom_shovel": [0.0, 0.0, 0.0]}, "executed_through_frame": 1000, "task_success": true, "first_success_frame": 986, "conditions_at_termination": {"pan_left_of_broom": true, "pan_not_lifted": true, "pan_upright": true, "all_in_support_circle": true, "robots_home": true}, "grasp_gates": [{"name": "pickup", "frame": 65, "translation_m": 1.901808221109114e-07, "rotation_deg": 0.01366335675724102, "passed": true}, {"name": "handoff", "frame": 190, "translation_m": 5.171941996051527e-06, "rotation_deg": 0.0009030019620218658, "passed": true}, {"name": "pan_hold", "frame": 270, "translation_m": 3.550180786973025e-09, "rotation_deg": 0.0, "passed": true}], "collision_samples": 3997, "collision_events": 0, "full_episode_audited": true, "max_attachment_translation_error_m": 1.1408505495814198e-07, "pan_support": [{"cube": 0, "pan_below": true, "bottom_gap_m": 1.8358230590820312e-05}, {"cube": 1, "pan_below": true, "bottom_gap_m": -1.6570091247558594e-05}, {"cube": 2, "pan_below": true, "bottom_gap_m": 7.617473602294922e-05}], "dynamic_cubes_without_animation": true, "urdf_position_limits_passed": true, "transfer_orientation": {"max_tilt_deg": 0.027976455118293345, "max_angular_speed_deg_s": 91.55710168542896}, "predicate_source_sha256": "eb928a05c3eb6bae429a922c59e64272c2c3851c22d779143d45627e47b3a504", "manifest_sha256": "295c804f749e73b68818f963adc585ad3d8c483b258e1ce75400e1f28d423c20", "blender_version": "5.2.1 LTS", "duration_s": 93.73405694961548, "limitations": ["Frozen open-loop replay, no scene-conditioned replanning", "Gated kinematic attachment, not force closure", "Sampled robot collision check, not continuous-time proof"]}
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

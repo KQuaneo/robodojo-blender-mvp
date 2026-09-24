@@ -1,0 +1,5 @@
+{
+  "outcome": "task_failure",
+  "raw_termination_reason": "task_or_acceptance_failure",
+  "collision_events": 0
+}

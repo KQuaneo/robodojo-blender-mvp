@@ -1,0 +1,15 @@
+{
+  "status": "complete",
+  "completed_seeds": 20,
+  "outcome_counts": {
+    "task_failure": 13,
+    "success": 7
+  },
+  "exact_source_cube_offsets": true,
+  "nominal_tools": true,
+  "baseline_and_executor_unchanged": true,
+  "held_out_not_in_manifest": true,
+  "raw_trace_and_collision_counts_consistent": true,
+  "all_processes_completed": true,
+  "control_final_positions_exact_match": true
+}

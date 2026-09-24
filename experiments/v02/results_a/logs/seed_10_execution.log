@@ -1,0 +1,20 @@
+00:00.459  blend            | Read blend: "/Users/quanyukai/robodojo-blender-mvp/experiments/v02/baseline_candidate_02/reference.blend"
+GATE {"name": "pickup", "frame": 65, "translation_m": 3.09054845141552e-07, "rotation_deg": 0.013663258434272041, "passed": true}
+PHYSICS 100
+GATE {"name": "handoff", "frame": 190, "translation_m": 5.231143871667737e-06, "rotation_deg": 0.0008987085980494426, "passed": true}
+PHYSICS 200
+GATE {"name": "pan_hold", "frame": 270, "translation_m": 3.550180812592252e-09, "rotation_deg": 0.0, "passed": true}
+PHYSICS 300
+PHYSICS 400
+PHYSICS 500
+PHYSICS 600
+PHYSICS 700
+PHYSICS 800
+PHYSICS 900
+PHYSICS 1000
+AUDIT 100 events 0
+AUDIT 200 events 0
+AUDIT 300 events 0
+AUDIT 400 events 0
+AUDIT 500 events 0
+AUDIT 600 events 0

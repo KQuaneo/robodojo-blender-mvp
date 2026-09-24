@@ -1,0 +1,16 @@
+{
+  "group": "control",
+  "control_qualified": true,
+  "diagnostic_attempted": 0,
+  "outcomes": {},
+  "frozen_artifacts_unchanged": true,
+  "records": [
+    {
+      "id": "control",
+      "seed": null,
+      "outcome": "success",
+      "executed": true,
+      "qualified": true
+    }
+  ]
+}

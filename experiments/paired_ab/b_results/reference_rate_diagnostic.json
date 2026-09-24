@@ -1,0 +1,297 @@
+{
+  "purpose": "Read-only diagnosis after nominal B control rejection; NOT a rerun",
+  "samples": 8029,
+  "arm_maxima": [
+    {
+      "start_frame": 225.875,
+      "end_frame": 226.0,
+      "arm": "Left",
+      "joint": 2,
+      "rate": 0.38269937179057933,
+      "delta_rad": 0.04783742147382242
+    },
+    {
+      "start_frame": 544.4710998535156,
+      "end_frame": 544.5,
+      "arm": "Right",
+      "joint": 6,
+      "rate": 27.078651582506733,
+      "delta_rad": 0.7825769973337975
+    }
+  ],
+  "threshold_rad_per_frame": 0.48,
+  "violation_intervals": [
+    {
+      "start_frame": 215.25,
+      "end_frame": 215.375,
+      "arm": "Right",
+      "joint": 2,
+      "rate": 0.4827496355618486,
+      "delta_rad": 0.06034370444523107
+    },
+    {
+      "start_frame": 215.375,
+      "end_frame": 215.5,
+      "arm": "Right",
+      "joint": 2,
+      "rate": 0.49309709586619377,
+      "delta_rad": 0.06163713698327422
+    },
+    {
+      "start_frame": 431.25,
+      "end_frame": 431.3103332519531,
+      "arm": "Right",
+      "joint": 6,
+      "rate": 7.78456884336865,
+      "delta_rad": 0.4696683533734076
+    },
+    {
+      "start_frame": 431.3103332519531,
+      "end_frame": 431.37066650390625,
+      "arm": "Right",
+      "joint": 6,
+      "rate": 7.784570587362777,
+      "delta_rad": 0.46966845859424466
+    },
+    {
+      "start_frame": 431.37066650390625,
+      "end_frame": 431.4353332519531,
+      "arm": "Right",
+      "joint": 6,
+      "rate": 7.4109100317069,
+      "delta_rad": 0.4792394518184485
+    },
+    {
+      "start_frame": 431.4353332519531,
+      "end_frame": 431.5,
+      "arm": "Right",
+      "joint": 6,
+      "rate": 7.5923561298800175,
+      "delta_rad": 0.49097298093309805
+    },
+    {
+      "start_frame": 530.25,
+      "end_frame": 530.3450927734375,
+      "arm": "Right",
+      "joint": 2,
+      "rate": 7.285673305302484,
+      "delta_rad": 0.6928148809607708
+    },
+    {
+      "start_frame": 530.3450927734375,
+      "end_frame": 530.440185546875,
+      "arm": "Right",
+      "joint": 2,
+      "rate": 7.189178698490314,
+      "delta_rad": 0.6836389411772406
+    },
+    {
+      "start_frame": 530.440185546875,
+      "end_frame": 530.4700927734375,
+      "arm": "Right",
+      "joint": 2,
+      "rate": 22.73911571470663,
+      "delta_rad": 0.6800638855106353
+    },
+    {
+      "start_frame": 530.4700927734375,
+      "end_frame": 530.5,
+      "arm": "Right",
+      "joint": 2,
+      "rate": 22.739119052544222,
+      "delta_rad": 0.6800639853361004
+    },
+    {
+      "start_frame": 537.25,
+      "end_frame": 537.3174133300781,
+      "arm": "Right",
+      "joint": 3,
+      "rate": 9.030095415013419,
+      "delta_rad": 0.6087488028492627
+    },
+    {
+      "start_frame": 537.3174133300781,
+      "end_frame": 537.3848266601562,
+      "arm": "Right",
+      "joint": 3,
+      "rate": 9.042760978065038,
+      "delta_rad": 0.6096026306318869
+    },
+    {
+      "start_frame": 537.3848266601562,
+      "end_frame": 537.4424133300781,
+      "arm": "Right",
+      "joint": 3,
+      "rate": 10.726021371970445,
+      "delta_rad": 0.6176758523226389
+    },
+    {
+      "start_frame": 537.4424133300781,
+      "end_frame": 537.5,
+      "arm": "Right",
+      "joint": 3,
+      "rate": 10.906340140704083,
+      "delta_rad": 0.6280598097384218
+    },
+    {
+      "start_frame": 544.25,
+      "end_frame": 544.3460998535156,
+      "arm": "Right",
+      "joint": 6,
+      "rate": 7.985167844807042,
+      "delta_rad": 0.7673734601836357
+    },
+    {
+      "start_frame": 544.3460998535156,
+      "end_frame": 544.4421997070312,
+      "arm": "Right",
+      "joint": 6,
+      "rate": 7.993176069002609,
+      "delta_rad": 0.76814304935575
+    },
+    {
+      "start_frame": 544.4421997070312,
+      "end_frame": 544.4710998535156,
+      "arm": "Right",
+      "joint": 6,
+      "rate": 26.853849717443136,
+      "delta_rad": 0.7760801905034989
+    },
+    {
+      "start_frame": 544.4710998535156,
+      "end_frame": 544.5,
+      "arm": "Right",
+      "joint": 6,
+      "rate": 27.078651582506733,
+      "delta_rad": 0.7825769973337975
+    },
+    {
+      "start_frame": 552.75,
+      "end_frame": 552.8634948730469,
+      "arm": "Right",
+      "joint": 5,
+      "rate": 2.4885475619382316,
+      "delta_rad": 0.2824373896132899
+    },
+    {
+      "start_frame": 552.8634948730469,
+      "end_frame": 552.9769897460938,
+      "arm": "Right",
+      "joint": 5,
+      "rate": 2.486527611982408,
+      "delta_rad": 0.28220813564949265
+    },
+    {
+      "start_frame": 552.9769897460938,
+      "end_frame": 552.9884948730469,
+      "arm": "Right",
+      "joint": 5,
+      "rate": 24.936034805922723,
+      "delta_rad": 0.28689224614968467
+    },
+    {
+      "start_frame": 552.9884948730469,
+      "end_frame": 553.0,
+      "arm": "Right",
+      "joint": 5,
+      "rate": 24.7758753531845,
+      "delta_rad": 0.28504959131318836
+    },
+    {
+      "start_frame": 731.5,
+      "end_frame": 731.5394592285156,
+      "arm": "Right",
+      "joint": 2,
+      "rate": 3.5465265918463964,
+      "delta_rad": 0.13994320322440768
+    },
+    {
+      "start_frame": 731.5394592285156,
+      "end_frame": 731.5789184570312,
+      "arm": "Right",
+      "joint": 2,
+      "rate": 3.5369283015828357,
+      "delta_rad": 0.13956446209553852
+    },
+    {
+      "start_frame": 731.5789184570312,
+      "end_frame": 731.6644592285156,
+      "arm": "Right",
+      "joint": 2,
+      "rate": 1.6126381337177538,
+      "delta_rad": 0.13794631008333935
+    },
+    {
+      "start_frame": 731.6644592285156,
+      "end_frame": 731.75,
+      "arm": "Right",
+      "joint": 2,
+      "rate": 1.6143684485798229,
+      "delta_rad": 0.13809432255155163
+    },
+    {
+      "start_frame": 740.25,
+      "end_frame": 740.3572692871094,
+      "arm": "Right",
+      "joint": 1,
+      "rate": 3.9111358791026207,
+      "delta_rad": 0.4195447575392368
+    },
+    {
+      "start_frame": 740.3572692871094,
+      "end_frame": 740.4645385742188,
+      "arm": "Right",
+      "joint": 1,
+      "rate": 3.851239706034648,
+      "delta_rad": 0.4131197377536556
+    },
+    {
+      "start_frame": 740.4645385742188,
+      "end_frame": 740.4822692871094,
+      "arm": "Right",
+      "joint": 1,
+      "rate": 23.265881789237937,
+      "delta_rad": 0.4125206701521985
+    },
+    {
+      "start_frame": 740.4822692871094,
+      "end_frame": 740.5,
+      "arm": "Right",
+      "joint": 1,
+      "rate": 23.144241199011933,
+      "delta_rad": 0.4103638957710551
+    },
+    {
+      "start_frame": 749.25,
+      "end_frame": 749.3021850585938,
+      "arm": "Right",
+      "joint": 6,
+      "rate": 11.311436496306438,
+      "delta_rad": 0.5902879763392337
+    },
+    {
+      "start_frame": 749.3021850585938,
+      "end_frame": 749.3543701171875,
+      "arm": "Right",
+      "joint": 6,
+      "rate": 11.310908991459943,
+      "delta_rad": 0.5902604484679108
+    },
+    {
+      "start_frame": 749.3543701171875,
+      "end_frame": 749.4271850585938,
+      "arm": "Right",
+      "joint": 6,
+      "rate": 8.159435917568146,
+      "delta_rad": 0.5941288482457763
+    },
+    {
+      "start_frame": 749.4271850585938,
+      "end_frame": 749.5,
+      "arm": "Right",
+      "joint": 6,
+      "rate": 8.241444143031819,
+      "delta_rad": 0.6001002723777441
+    }
+  ]
+}
